@@ -1,2 +1,2 @@
 # thaiconsonantquiz_en
-Thai consonant quiz with advertisement font
+Quiz for Thai consonants with advertisement fonts
